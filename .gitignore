@@ -1,0 +1,20 @@
+# Only the Unity source project and repository documentation belong here.
+/*
+!/.gitignore
+!/README.md
+!/Assets/
+!/Packages/
+!/ProjectSettings/
+
+# Local settings and generated assets
+**/.DS_Store
+**/Thumbs.db
+**/*.tmp
+**/*.bak
+**/*.csproj
+**/*.sln
+**/*.slnx
+**/.env
+**/.env.*
+/Assets/StreamingAssets/aa/
+/Assets/AddressableAssetsData/*/*.bin*

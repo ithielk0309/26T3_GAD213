@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dddc42f68a0f525f8e1ff0c7176fbf4c, type: 3}
+  m_Name: Buckshot
+  m_EditorClassIdentifier: 
+  kind: 0
+  label: Buckshot
+  colour: {r: 0.95, g: 0.55, b: 0.18, a: 1}
+  stock: 16
+  pellets: 9
+  spreadDegrees: 6
+  range: 20
+  damage: 6
+  push: 0.38
+  maxPush: 1.4
+  stun: 0
+  burnSeconds: 2
+  burnPerSecond: 8
+  patchSeconds: 3
+  patchRadius: 1.6
+  fireSound: {fileID: 8300000, guid: 4085b6920f522334495aaef74d511d36, type: 3}
+  fireVolume: 1

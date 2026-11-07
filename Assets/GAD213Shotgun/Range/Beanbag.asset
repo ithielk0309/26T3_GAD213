@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dddc42f68a0f525f8e1ff0c7176fbf4c, type: 3}
+  m_Name: Beanbag
+  m_EditorClassIdentifier: 
+  kind: 2
+  label: Pepperbag
+  colour: {r: 0.38, g: 0.85, b: 0.31, a: 1}
+  stock: 16
+  pellets: 7
+  spreadDegrees: 9
+  range: 14
+  damage: 0.5
+  push: 7
+  maxPush: 7
+  stun: 1.5
+  burnSeconds: 2
+  burnPerSecond: 8
+  patchSeconds: 3
+  patchRadius: 1.6
+  fireSound: {fileID: 8300000, guid: 4085b6920f522334495aaef74d511d36, type: 3}
+  fireVolume: 1
